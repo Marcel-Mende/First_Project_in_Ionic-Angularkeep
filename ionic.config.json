@@ -1,0 +1,7 @@
+{
+  "name": "Taschenrechner-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
